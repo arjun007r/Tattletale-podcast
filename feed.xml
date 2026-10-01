@@ -1,1 +1,42 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJzcyB2ZXJzaW9uPSIyLjAiIHhtbG5zOml0dW5lcz0iaHR0cDovL3d3dy5pdHVuZXMuY29tL2R0ZHMvcG9kY2FzdC0xLjAuZHRkIgogICAgIHhtbG5zOmF0b209Imh0dHA6Ly93d3cudzMub3JnLzIwMDUvQXRvbSI+CjxjaGFubmVsPgogIDx0aXRsZT5Bcm91bmQgdGhlIFdvcmxkIHdpdGggTWF5YSBhbmQgTGVvPC90aXRsZT4KICA8aXR1bmVzOmF1dGhvcj5UYXR0bGV0YWxlczwvaXR1bmVzOmF1dGhvcj4KICA8aXR1bmVzOm93bmVyPgogICAgPGl0dW5lczpuYW1lPlRhdHRsZXRhbGVzPC9pdHVuZXM6bmFtZT4KICAgIDxpdHVuZXM6ZW1haWw+YWkuYXJqdW4ucmFqYUBnbWFpbC5jb208L2l0dW5lczplbWFpbD4KICA8L2l0dW5lczpvd25lcj4KICA8ZGVzY3JpcHRpb24+QUkgR2VuZXJhdGVkPC9kZXNjcmlwdGlvbj4KICA8bGFuZ3VhZ2U+ZW48L2xhbmd1YWdlPgogIDxpdHVuZXM6ZXhwbGljaXQ+ZmFsc2U8L2l0dW5lczpleHBsaWNpdD4KICA8YXRvbTpsaW5rIGhyZWY9Imh0dHBzOi8vYXJqdW4wMDdyLmdpdGh1Yi5pby9UYXR0bGV0YWxlLXBvZGNhc3QvZmVlZC54bWwiIHJlbD0ic2VsZiIgdHlwZT0iYXBwbGljYXRpb24vcnNzK3htbCIvPgogIDxpdHVuZXM6aW1hZ2UgaHJlZj0iaHR0cHM6Ly9tdXNlLmFpL3BvZGNhc3RzL21lZGlhLzcxODcwNDIwMTMyNjg5My84ODkyYTk5OS1jYTMyLTQ5MDMtOWU1ZC02MGI4NDZmM2EyYTUvY292ZXIucG5nIi8+CiAgPGltYWdlPgogICAgPHVybD5odHRwczovL211c2UuYWkvcG9kY2FzdHMvbWVkaWEvNzE4NzA0MjAxMzI2ODkzLzg4OTJhOTk5LWNhMzItNDkwMy05ZTVkLTYwYjg0NmYzYTJhNS9jb3Zlci5wbmc8L3VybD4KICAgIDx0aXRsZT5Bcm91bmQgdGhlIFdvcmxkIHdpdGggTWF5YSBhbmQgTGVvPC90aXRsZT4KICAgIDxsaW5rPmh0dHBzOi8vbXVzZS5haS9wb2RjYXN0cy9mZWVkLzcxODcwNDIwMTMyNjg5My84ODkyYTk5OS1jYTMyLTQ5MDMtOWU1ZC02MGI4NDZmM2EyYTU8L2xpbms+CiAgPC9pbWFnZT4KICA8aXRlbT4KICAgIDx0aXRsZT5UaGUgU3Rvcnlib29rIENsdWI6IFdoZXJlIHRoZSBXaWxkIFRoaW5ncyBBcmU8L3RpdGxlPgogICAgPGRlc2NyaXB0aW9uPk1heWEgYW5kIExlbyBhY3Qgb3V0IE1hdXJpY2UgU2VuZGFrJmFwb3M7cyBjbGFzc2ljIGFuZCBkaXNjb3ZlciB3aHkgYmlnIGZlZWxpbmdzIGFyZSBva2F5LgoKQUkgR2VuZXJhdGVkPC9kZXNjcmlwdGlvbj4KICAgIDxlbmNsb3N1cmUgdXJsPSJodHRwczovL211c2UuYWkvcG9kY2FzdHMvbWVkaWEvNzE4NzA0MjAxMzI2ODkzLzg4OTJhOTk5LWNhMzItNDkwMy05ZTVkLTYwYjg0NmYzYTJhNS9lcC1lZWE0NjM2OS1mY2NhLTQ0ZGQtYjU2ZS0yZGUxYzlmMzIyMmEubXAzIiBsZW5ndGg9IjU0NTk3NDkiIHR5cGU9ImF1ZGlvL21wZWciLz4KICAgIDxndWlkIGlzUGVybWFMaW5rPSJmYWxzZSI+ZXAtZWVhNDYzNjktZmNjYS00NGRkLWI1NmUtMmRlMWM5ZjMyMjJhPC9ndWlkPgogICAgPHB1YkRhdGU+VHVlLCAyOSBTZXAgMjAyNiAxMzo0MDowMSArMDAwMDwvcHViRGF0ZT4KICAgIDxpdHVuZXM6ZHVyYXRpb24+NjgyPC9pdHVuZXM6ZHVyYXRpb24+CiAgPC9pdGVtPgogIDxpdGVtPgogICAgPHRpdGxlPlRpbWUgTWFjaGluZSBTcXVhZDogVGhlIFNoaW55IE1vdW50YWluIG9mIEdpemE8L3RpdGxlPgogICAgPGRlc2NyaXB0aW9uPk1heWEgYW5kIExlbyB0cmF2ZWwgYmFjayA0LDUwMCB5ZWFycyB0byB3YXRjaCAyMCwwMDAgcGFpZCB3b3JrZXJzIHJhaXNlIHRoZSBHcmVhdCBQeXJhbWlkIOKAlCBhbmQgbGVhcm4gaG93IHRlYW13b3JrIG1vdmVzIG1vdW50YWlucy4KCkFJIEdlbmVyYXRlZDwvZGVzY3JpcHRpb24+CiAgICA8ZW5jbG9zdXJlIHVybD0iaHR0cHM6Ly9tdXNlLmFpL3BvZGNhc3RzL21lZGlhLzcxODcwNDIwMTMyNjg5My84ODkyYTk5OS1jYTMyLTQ5MDMtOWU1ZC02MGI4NDZmM2EyYTUvZXAtZjYwMWMzMGItM2ZiYi00ODMzLTg0ZTgtMzEwYjM2MjAzOThhLm1wMyIgbGVuZ3RoPSI4MDcyODY5IiB0eXBlPSJhdWRpby9tcGVnIi8+CiAgICA8Z3VpZCBpc1Blcm1hTGluaz0iZmFsc2UiPmVwLWY2MDFjMzBiLTNmYmItNDgzMy04NGU4LTMxMGIzNjIwMzk4YTwvZ3VpZD4KICAgIDxwdWJEYXRlPldlZCwgMzAgU2VwIDIwMjYgMTU6MzI6MjMgKzAwMDA8L3B1YkRhdGU+CiAgICA8aXR1bmVzOmR1cmF0aW9uPjEwMDk8L2l0dW5lczpkdXJhdGlvbj4KICA8L2l0ZW0+CjwvY2hhbm5lbD4KPC9yc3M+Cg==
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Around the World with Maya and Leo</title>
+  <itunes:author>Tattletales</itunes:author>
+  <itunes:owner>
+    <itunes:name>Tattletales</itunes:name>
+    <itunes:email>ai.arjun.raja@gmail.com</itunes:email>
+  </itunes:owner>
+  <description>AI Generated</description>
+  <language>en</language>
+  <itunes:explicit>false</itunes:explicit>
+  <atom:link href="https://arjun007r.github.io/Tattletale-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+  <itunes:image href="https://muse.ai/podcasts/media/718704201326893/8892a999-ca32-4903-9e5d-60b846f3a2a5/cover.png"/>
+  <image>
+    <url>https://muse.ai/podcasts/media/718704201326893/8892a999-ca32-4903-9e5d-60b846f3a2a5/cover.png</url>
+    <title>Around the World with Maya and Leo</title>
+    <link>https://muse.ai/podcasts/feed/718704201326893/8892a999-ca32-4903-9e5d-60b846f3a2a5</link>
+  </image>
+  <item>
+    <title>The Storybook Club: Where the Wild Things Are</title>
+    <description>Maya and Leo act out Maurice Sendak&apos;s classic and discover why big feelings are okay.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/718704201326893/8892a999-ca32-4903-9e5d-60b846f3a2a5/ep-eea46369-fcca-44dd-b56e-2de1c9f3222a.mp3" length="5459749" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-eea46369-fcca-44dd-b56e-2de1c9f3222a</guid>
+    <pubDate>Tue, 29 Sep 2026 13:40:01 +0000</pubDate>
+    <itunes:duration>682</itunes:duration>
+  </item>
+  <item>
+    <title>Time Machine Squad: The Shiny Mountain of Giza</title>
+    <description>Maya and Leo travel back 4,500 years to watch 20,000 paid workers raise the Great Pyramid — and learn how teamwork moves mountains.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/718704201326893/8892a999-ca32-4903-9e5d-60b846f3a2a5/ep-f601c30b-3fbb-4833-84e8-310b3620398a.mp3" length="8072869" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-f601c30b-3fbb-4833-84e8-310b3620398a</guid>
+    <pubDate>Wed, 30 Sep 2026 15:32:23 +0000</pubDate>
+    <itunes:duration>1009</itunes:duration>
+  </item>
+</channel>
+</rss>
