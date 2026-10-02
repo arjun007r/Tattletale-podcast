@@ -10,6 +10,7 @@
   </itunes:owner>
   <description>AI Generated</description>
   <language>en</language>
+  <itunes:category text="Kids &amp; Family"/>
   <itunes:explicit>false</itunes:explicit>
   <atom:link href="https://arjun007r.github.io/Tattletale-podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <itunes:image href="https://muse.ai/podcasts/media/718704201326893/8892a999-ca32-4903-9e5d-60b846f3a2a5/cover.png"/>
