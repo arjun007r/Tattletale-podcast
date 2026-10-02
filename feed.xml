@@ -49,5 +49,15 @@ AI Generated</description>
     <pubDate>Thu, 01 Oct 2026 22:43:59 +0000</pubDate>
     <itunes:duration>913</itunes:duration>
   </item>
+  <item>
+    <title>The Why Club: Why Is the Sky Blue?</title>
+    <description>Maya and Leo chase the classic kid question: sunlight is a secret rainbow, air is a blue-popcorn machine, and Mars has blue sunsets. Plus a make-your-own sunset in a glass.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/718704201326893/8892a999-ca32-4903-9e5d-60b846f3a2a5/ep-e5fc3a0c-24d5-4b91-b301-867969cf6b8b.mp3" length="8040613" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-e5fc3a0c-24d5-4b91-b301-867969cf6b8b</guid>
+    <pubDate>Fri, 02 Oct 2026 15:29:24 +0000</pubDate>
+    <itunes:duration>1005</itunes:duration>
+  </item>
 </channel>
 </rss>
