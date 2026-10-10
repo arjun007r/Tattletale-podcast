@@ -1,0 +1,21 @@
+name: Fix feed encoding
+on: push
+permissions:
+  contents: write
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Decode feed.xml if it is base64
+        run: |
+          if ! head -c 5 feed.xml | grep -q "<?xml"; then
+            base64 -d feed.xml > feed.tmp
+            if head -c 5 feed.tmp | grep -q "<?xml"; then
+              mv feed.tmp feed.xml
+              git config user.name "feed-fixer"
+              git config user.email "arjun007r@users.noreply.github.com"
+              git commit -am "Auto-fix: decode base64 feed.xml"
+              git push
+            fi
+          fi
