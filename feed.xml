@@ -169,5 +169,25 @@ AI Generated</description>
     <pubDate>Tue, 13 Oct 2026 15:26:48 +0000</pubDate>
     <itunes:duration>947</itunes:duration>
   </item>
+  <item>
+    <title>Time Machine Squad: Twelve Seconds That Changed the World</title>
+    <description>Maya and Leo land in Kitty Hawk, 1903, to watch two bicycle repairmen turn twelve seconds into the age of flight.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/718704201326893/8892a999-ca32-4903-9e5d-60b846f3a2a5/ep-842d701b-6ac9-4bc1-8e64-11382181f15f.mp3" length="8330533" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-842d701b-6ac9-4bc1-8e64-11382181f15f</guid>
+    <pubDate>Wed, 14 Oct 2026 15:36:53 +0000</pubDate>
+    <itunes:duration>1041</itunes:duration>
+  </item>
+  <item>
+    <title>The Storybook Club: Dragons Love Tacos</title>
+    <description>Maya and Leo throw a taco party for dragons in Adam Rubin's hilarious book, and learn why listening to the small stuff matters.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/718704201326893/8892a999-ca32-4903-9e5d-60b846f3a2a5/ep-f4f5ba0a-6932-4194-be9f-5e16ae6459ba.mp3" length="9015205" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-f4f5ba0a-6932-4194-be9f-5e16ae6459ba</guid>
+    <pubDate>Thu, 15 Oct 2026 15:36:50 +0000</pubDate>
+    <itunes:duration>1127</itunes:duration>
+  </item>
 </channel>
 </rss>
