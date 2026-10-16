@@ -189,5 +189,15 @@ AI Generated</description>
     <pubDate>Thu, 15 Oct 2026 15:36:50 +0000</pubDate>
     <itunes:duration>1127</itunes:duration>
   </item>
+  <item>
+    <title>The Why Club: Why Do We Dream?</title>
+    <description>Maya and Leo investigate why we dream — from REM sleep and a 1953 discovery to four wild theories, plus dreams that changed the world and a Dream Journal Challenge.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/718704201326893/8892a999-ca32-4903-9e5d-60b846f3a2a5/ep-32e49f58-5826-463b-b200-ea66adf93b13.mp3" length="7920229" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-32e49f58-5826-463b-b200-ea66adf93b13</guid>
+    <pubDate>Fri, 16 Oct 2026 15:32:43 +0000</pubDate>
+    <itunes:duration>990</itunes:duration>
+  </item>
 </channel>
 </rss>
