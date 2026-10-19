@@ -199,5 +199,15 @@ AI Generated</description>
     <pubDate>Fri, 16 Oct 2026 15:32:43 +0000</pubDate>
     <itunes:duration>990</itunes:duration>
   </item>
+  <item>
+    <title>Animal Agents: The Eight-Armed Escape Artist</title>
+    <description>Maya and Leo meet the octopus — eight tasting arms, three hearts, blue blood, and the greatest escape artist in the ocean.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/718704201326893/8892a999-ca32-4903-9e5d-60b846f3a2a5/ep-29cfe76c-2a8e-4879-8d54-cc75a08bf313.mp3" length="8101861" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-29cfe76c-2a8e-4879-8d54-cc75a08bf313</guid>
+    <pubDate>Mon, 19 Oct 2026 15:32:46 +0000</pubDate>
+    <itunes:duration>1012</itunes:duration>
+  </item>
 </channel>
 </rss>
