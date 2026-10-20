@@ -209,5 +209,15 @@ AI Generated</description>
     <pubDate>Mon, 19 Oct 2026 15:32:46 +0000</pubDate>
     <itunes:duration>1012</itunes:duration>
   </item>
+  <item>
+    <title>The Storybook Club: The Very Hungry Caterpillar</title>
+    <description>Maya and Leo munch through Eric Carle's classic with a very hungry caterpillar, from one apple to a beautiful butterfly, and learn why growing up takes time.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/718704201326893/8892a999-ca32-4903-9e5d-60b846f3a2a5/ep-0145d544-fdf0-48f9-bb50-b591d9953622.mp3" length="7954759" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-0145d544-fdf0-48f9-bb50-b591d9953622</guid>
+    <pubDate>Tue, 20 Oct 2026 15:29:55 +0000</pubDate>
+    <itunes:duration>994</itunes:duration>
+  </item>
 </channel>
 </rss>
