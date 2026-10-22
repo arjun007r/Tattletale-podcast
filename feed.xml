@@ -229,5 +229,15 @@ AI Generated</description>
     <pubDate>Wed, 21 Oct 2026 15:36:07 +0000</pubDate>
     <itunes:duration>1023</itunes:duration>
   </item>
+  <item>
+    <title>The Storybook Club: The Gruffalo</title>
+    <description>Maya and Leo act out Julia Donaldson's The Gruffalo and discover why being small but clever beats being big and scary.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/718704201326893/8892a999-ca32-4903-9e5d-60b846f3a2a5/ep-2abab34c-b248-4f41-9587-4e682ff1dca8.mp3" length="7523699" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-2abab34c-b248-4f41-9587-4e682ff1dca8</guid>
+    <pubDate>Thu, 22 Oct 2026 15:23:24 +0000</pubDate>
+    <itunes:duration>940</itunes:duration>
+  </item>
 </channel>
 </rss>
