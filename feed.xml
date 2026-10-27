@@ -259,5 +259,15 @@ AI Generated</description>
     <pubDate>Mon, 26 Oct 2026 15:21:25 +0000</pubDate>
     <itunes:duration>1039</itunes:duration>
   </item>
+  <item>
+    <title>The Storybook Club: Room on the Broom</title>
+    <description>Maya and Leo act out Room on the Broom, the tale of a kind witch whose broom always has room for one more friend, and discover why making room for others makes life bigger.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/718704201326893/8892a999-ca32-4903-9e5d-60b846f3a2a5/ep-243df64a-ab96-4ed1-825d-33debd0eeb8f.mp3" length="9431461" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-243df64a-ab96-4ed1-825d-33debd0eeb8f</guid>
+    <pubDate>Tue, 27 Oct 2026 15:22:06 +0000</pubDate>
+    <itunes:duration>1178</itunes:duration>
+  </item>
 </channel>
 </rss>
