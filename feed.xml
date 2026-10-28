@@ -269,5 +269,15 @@ AI Generated</description>
     <pubDate>Tue, 27 Oct 2026 15:22:06 +0000</pubDate>
     <itunes:duration>1178</itunes:duration>
   </item>
+  <item>
+    <title>Time Machine Squad: The Clay Army That Waited Two Thousand Years</title>
+    <description>Maya and Leo travel to China to uncover the Terracotta Army, discovered by farmers in 1974 and guarding an emperor for over two thousand years.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/718704201326893/8892a999-ca32-4903-9e5d-60b846f3a2a5/ep-19d60ce4-a2fa-4695-9ad8-ae8749793db1.mp3" length="7851493" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-19d60ce4-a2fa-4695-9ad8-ae8749793db1</guid>
+    <pubDate>Wed, 28 Oct 2026 15:20:59 +0000</pubDate>
+    <itunes:duration>981</itunes:duration>
+  </item>
 </channel>
 </rss>
