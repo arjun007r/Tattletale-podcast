@@ -279,5 +279,15 @@ AI Generated</description>
     <pubDate>Wed, 28 Oct 2026 15:20:59 +0000</pubDate>
     <itunes:duration>981</itunes:duration>
   </item>
+  <item>
+    <title>The Storybook Club: The Bad Seed</title>
+    <description>Maya and Leo act out Jory John's The Bad Seed and discover that one bad day doesn't make you a bad person forever — small good choices can change everything.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/718704201326893/8892a999-ca32-4903-9e5d-60b846f3a2a5/ep-bd5db5ef-7e4c-4959-b86b-116288c71b7e.mp3" length="8024677" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-bd5db5ef-7e4c-4959-b86b-116288c71b7e</guid>
+    <pubDate>Thu, 29 Oct 2026 15:22:16 +0000</pubDate>
+    <itunes:duration>1003</itunes:duration>
+  </item>
 </channel>
 </rss>
