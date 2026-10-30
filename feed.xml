@@ -289,5 +289,15 @@ AI Generated</description>
     <pubDate>Thu, 29 Oct 2026 15:22:16 +0000</pubDate>
     <itunes:duration>1003</itunes:duration>
   </item>
+  <item>
+    <title>The Why Club: Why Do We Have Seasons?</title>
+    <description>Maya and Leo discover that Earth's gentle lean, not its distance from the sun, makes summer, fall, winter, and spring.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/718704201326893/8892a999-ca32-4903-9e5d-60b846f3a2a5/ep-3a644dab-e14c-4b8a-a95f-260f897f905e.mp3" length="9638437" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-3a644dab-e14c-4b8a-a95f-260f897f905e</guid>
+    <pubDate>Fri, 30 Oct 2026 15:22:06 +0000</pubDate>
+    <itunes:duration>1204</itunes:duration>
+  </item>
 </channel>
 </rss>
