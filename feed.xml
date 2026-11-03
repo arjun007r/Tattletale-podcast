@@ -309,5 +309,15 @@ AI Generated</description>
     <pubDate>Mon, 02 Nov 2026 16:21:51 +0000</pubDate>
     <itunes:duration>1151</itunes:duration>
   </item>
+  <item>
+    <title>The Storybook Club: The Dot</title>
+    <description>Maya and Leo act out The Dot by Peter H. Reynolds and discover that you do not have to be perfect to begin.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/718704201326893/8892a999-ca32-4903-9e5d-60b846f3a2a5/ep-012bc0e7-d576-44b6-8791-2bf201c84962.mp3" length="8337829" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-012bc0e7-d576-44b6-8791-2bf201c84962</guid>
+    <pubDate>Tue, 03 Nov 2026 16:21:27 +0000</pubDate>
+    <itunes:duration>1042</itunes:duration>
+  </item>
 </channel>
 </rss>
