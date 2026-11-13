@@ -389,5 +389,15 @@ AI Generated</description>
     <pubDate>Thu, 12 Nov 2026 16:23:08 +0000</pubDate>
     <itunes:duration>1138</itunes:duration>
   </item>
+  <item>
+    <title>The Why Club: Why Do We Yawn?</title>
+    <description>Why do we yawn, and why is yawning so contagious? Maya and Leo investigate the brain-cooling idea, the empathy connection, and why athletes yawn before the big moment.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/718704201326893/8892a999-ca32-4903-9e5d-60b846f3a2a5/ep-eaf821d1-8196-4684-bb5c-469ec3090a74.mp3" length="8362981" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-eaf821d1-8196-4684-bb5c-469ec3090a74</guid>
+    <pubDate>Fri, 13 Nov 2026 16:23:02 +0000</pubDate>
+    <itunes:duration>1045</itunes:duration>
+  </item>
 </channel>
 </rss>
