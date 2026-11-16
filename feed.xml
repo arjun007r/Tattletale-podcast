@@ -399,5 +399,15 @@ AI Generated</description>
     <pubDate>Fri, 13 Nov 2026 16:23:02 +0000</pubDate>
     <itunes:duration>1045</itunes:duration>
   </item>
+  <item>
+    <title>Animal Agents: The Fastest Animal on Earth</title>
+    <description>Maya and Leo go on a mission briefing with the peregrine falcon, the fastest animal on Earth, diving at over two hundred miles an hour — and learn how its superpowers work.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/718704201326893/8892a999-ca32-4903-9e5d-60b846f3a2a5/ep-95ba3e22-5787-421b-9b08-687f94fc4def.mp3" length="7811941" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-95ba3e22-5787-421b-9b08-687f94fc4def</guid>
+    <pubDate>Mon, 16 Nov 2026 16:22:25 +0000</pubDate>
+    <itunes:duration>976</itunes:duration>
+  </item>
 </channel>
 </rss>
