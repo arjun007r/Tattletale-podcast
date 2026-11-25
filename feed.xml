@@ -459,5 +459,25 @@ AI Generated</description>
     <pubDate>Mon, 23 Nov 2026 16:26:54 +0000</pubDate>
     <itunes:duration>1185</itunes:duration>
   </item>
+  <item>
+    <title>The Storybook Club: The Story of Ferdinand</title>
+    <description>Maya and Leo act out Munro Leaf's The Story of Ferdinand, the gentle bull who would rather smell the flowers than fight, and learn that being yourself is the bravest thing of all.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/718704201326893/8892a999-ca32-4903-9e5d-60b846f3a2a5/ep-f096bb31-6b0f-4c07-8653-365cde948e21.mp3" length="7510501" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-f096bb31-6b0f-4c07-8653-365cde948e21</guid>
+    <pubDate>Tue, 24 Nov 2026 16:25:03 +0000</pubDate>
+    <itunes:duration>938</itunes:duration>
+  </item>
+  <item>
+    <title>Time Machine Squad: The Wall That Took Two Thousand Years</title>
+    <description>Maya and Leo travel to China to walk the Great Wall — thirteen thousand miles of wall, sticky-rice mortar, beacon towers, and two thousand years of history.
+
+AI Generated</description>
+    <enclosure url="https://muse.ai/podcasts/media/718704201326893/8892a999-ca32-4903-9e5d-60b846f3a2a5/ep-1f2bc584-b7ca-4bd0-bf82-0ee5bf3f6cbd.mp3" length="7688574" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-1f2bc584-b7ca-4bd0-bf82-0ee5bf3f6cbd</guid>
+    <pubDate>Wed, 25 Nov 2026 16:25:31 +0000</pubDate>
+    <itunes:duration>958</itunes:duration>
+  </item>
 </channel>
 </rss>
